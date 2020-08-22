@@ -1,2 +1,3 @@
 "# TJ" 
 first readme
+updated
